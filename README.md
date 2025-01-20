@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-amanydv
-- 👀 I’m in love with programming 
-- 🌱 I’m currently learning DSA 
+- 👀 I’m doing what I love to do. 
+- 🌱 I’m currently strengthning my hand on Fullstack Web Development 
 - 📫 You can reach me through LinkedIn 
 - 😄 Pronouns: He / Him
 
