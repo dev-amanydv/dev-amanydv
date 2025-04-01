@@ -19,7 +19,7 @@
 </p>
 
 ---
-# I'm Aman Yadav! 👋
+# I'm Aman! 👋
 
 ## About Me
 
