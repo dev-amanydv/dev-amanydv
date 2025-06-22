@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/devamanydv/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://twitter.com/dev_amanydv">
+<a href="https://twitter.com/amandoestwt">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
 <a href="https://www.instagram.com/_aman.ydv07/">
