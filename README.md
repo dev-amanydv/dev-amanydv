@@ -23,7 +23,7 @@
 
 ## About Me
 
-I'm a passionate **Full-Stack Developer** based in Jaipur, Rajasthan, India. I love building scalable web applications.
+I'm a passionate **Full-Stack Developer** based in Jaipur, Rajasthan, India. I love building scalable web applications and exploring Open Source.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/devamanydv) | [Twitter](https://twitter.com/dev_amanydv)
 
