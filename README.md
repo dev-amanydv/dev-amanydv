@@ -5,6 +5,15 @@
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/devamanydv" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/amandoestwt" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg"  alt="Twitter" width="30" height="30"/>
+  </a>
+</p>
 
 
 ---
