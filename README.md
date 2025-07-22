@@ -23,7 +23,6 @@
 
 # I'm Aman! 👋
 
-## About Me
 
 I'm a passionate **Full-Stack Developer**  and a Computer Science Undergrad based in Jaipur, Rajasthan, India, focused on building **real-time web applications**.  
 
