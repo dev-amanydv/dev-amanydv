@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!%20I'm%20Aman%20👋&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!%20I'm%20Aman%20👋&height=120&section=header&fontColor=023e8a"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dev-amanydv&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile-views"/>
 </p>
 
-<h1 align="center"> 🚀 Full-Stack Engineer </h1>
+<h1 align="center"> A Full-Stack Engineer </h1>
 
 <p align="center">
   <a href="https://amanydv.vercel.app" target="_blank">
