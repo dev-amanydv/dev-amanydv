@@ -1,5 +1,4 @@
 name: Update GitHub Stats
-
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -16,10 +15,9 @@ jobs:
         uses: anmol098/waka-readme-stats@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_LINES_OF_CODE: "true"
           SHOW_COMMIT: "true"
-          SHOW_PR: "true"
-          SHOW_ISSUES: "true"
           SHOW_LANGUAGE: "true"
           SHOW_PROJECTS: "true"
           SHOW_LOC_CHART: "false"
