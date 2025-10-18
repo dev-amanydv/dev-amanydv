@@ -69,14 +69,6 @@ NextJS, DevOps, and Databases.
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) 
 ![SQL](https://img.shields.io/badge/-SQL-025E8C?logo=database&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-amanydv&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-amanydv&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
 
 ---
 
