@@ -69,7 +69,6 @@ NextJS, DevOps, and Databases.
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) 
 ![SQL](https://img.shields.io/badge/-SQL-025E8C?logo=database&logoColor=white)
 
-
 ---
 
 ## 🛠 Tools I Use
@@ -86,7 +85,6 @@ NextJS, DevOps, and Databases.
 ![](https://github-readme-stats.vercel.app/api?username=dev-amanydv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dev-amanydv&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-amanydv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=dev-amanydv&icon=0&color=0)](https://visitcount.itsvg.in)
 
