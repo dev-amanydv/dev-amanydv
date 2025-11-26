@@ -17,21 +17,21 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm **Aman**, A **Full-Stack Engineer** with expertise in designing, developing, and deploying scalable web applications. Expertise in
 NextJS, DevOps, and Databases.
 
-✨ **Quick Highlights:**
-- 🖥️ Strong in **TypeScript + React + Next.js** for modern frontend engineering  
-- 📡 Build **real-time apps** using **WebRTC, Socket.IO, and Redis Pub/Sub**  
-- ☁️ Skilled at deploying **serverless apps** with **Cloudflare Workers & Docker**  
-- 🗄️ Efficient with **SQL & NoSQL databases** (PostgreSQL, MongoDB, MySQL)  
-- 🔐 Secure auth flows with **NextAuth, JWT, OAuth & Zod validation**  
+ **Quick Highlights:**
+-  Strong in **TypeScript + React + Next.js** for modern frontend engineering  
+-  Build **real-time apps** using **WebRTC, Socket.IO, and Redis Pub/Sub**  
+-  Skilled at deploying **serverless apps** with **Cloudflare Workers & Docker**  
+-  Efficient with **SQL & NoSQL databases** (PostgreSQL, MongoDB, MySQL)  
+-  Secure auth flows with **NextAuth, JWT, OAuth & Zod validation**  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:**  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) 
@@ -69,7 +69,7 @@ NextJS, DevOps, and Databases.
 
 ---
 
-## 🛠 Tools I Use
+##  Tools I Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma,linux,bootstrap,redis,postgres,mongodb,mysql,express,react,nextjs,tailwind,ts,js,c,cpp"/>
