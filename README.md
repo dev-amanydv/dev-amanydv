@@ -1,89 +1,158 @@
-![MasterHead](https://camo.githubusercontent.com/056e7476d3ce5dbab75be87c57ea62437aff5a218bccf8d0c4df0adaffc46e87/68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e636f6d2f662f63383363303034652d313337302d343735362d383865352d3430373164653739373038382f646764713862722d30396363376164362d613032312d343761352d623065302d3931376231326230663761372e6769663f746f6b656e3d65794a30655841694f694a4b563151694c434a68624763694f694a49557a49314e694a392e65794a7a645749694f694a31636d3436595842774f6a646c4d4751784f4467354f4449794e6a517a4e7a4e684e5759775a4451784e5756684d4751794e6d55774969776961584e7a496a6f6964584a754f6d467763446f335a54426b4d5467344f5467794d6a59304d7a637a5954566d4d4751304d54566c5954426b4d6a5a6c4d434973496d39696169493657317437496e4268644767694f694a634c325a634c324d344d324d774d44526c4c54457a4e7a41744e4463314e6930344f4755314c5451774e7a466b5a5463354e7a41344f4677765a47646b63546869636930774f574e6a4e32466b4e6931684d4449784c54513359545574596a426c4d4330354d5464694d544a694d475933595463755a326c6d496e3164585377695958566b496a7062496e5679626a707a5a584a3261574e6c4f6d5a70624755755a473933626d7876595751695858302e7471524d74452d6232516949326e6e65664e7853444d4a765a43635971466d71326363675f58667a716238)
 
-<h1 align="center"> Hey, myself Aman!</h1>
-<h1 align="center"> I'm a Full-Stack Developer</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://amanydv.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-amanydv.vercel.app-0a0a0a?style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/devamanydv" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/amandoestwt" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
 
----
 
-##  About Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Aman%20Yadav%20%E2%80%94%20Full-Stack%20Engineer%20building%20for%20the%20web%20and%20beyond.&height=110&fontSize=27&fontAlign=50&fontAlignY=52&fontFamily=DM+Sans&desc=Engineer.%20Builder.%20Thinker.&descSize=17&descAlign=50&descAlignY=76&descColor=666666"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Aman%20Yadav%20%E2%80%94%20Full-Stack%20Engineer%20building%20for%20the%20web%20and%20beyond.&height=110&fontSize=27&fontAlign=50&fontAlignY=52&fontFamily=DM+Sans&desc=Engineer.%20Builder.%20Thinker.&descSize=17&descAlign=50&descAlignY=76&descColor=888888" alt="Aman Yadav — Full-Stack Engineer"/>
+</picture>
 
-I'm **Aman**, A **Full-Stack Engineer** with expertise in designing, developing, and deploying scalable web applications. Expertise in
-NextJS, DevOps, and Databases.
+<br/><br/>
 
- **Quick Highlights:**
--  Strong in **TypeScript + React + Next.js** for modern frontend engineering  
--  Build **real-time apps** using **WebRTC, Socket.IO, and Redis Pub/Sub**  
--  Skilled at deploying **serverless apps** with **Cloudflare Workers & Docker**  
--  Efficient with **SQL & NoSQL databases** (PostgreSQL, MongoDB, MySQL)  
--  Secure auth flows with **NextAuth, JWT, OAuth & Zod validation**  
+<a href="https://amanydv.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-amanydv.vercel.app-ffffff?style=flat-square&logo=vercel&logoColor=000000&labelColor=ffffff&color=000000"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/devamanydv" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-devamanydv-ffffff?style=flat-square&logo=linkedin&logoColor=000000&labelColor=ffffff&color=000000"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/amandoestwt" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-amandoestwt-ffffff?style=flat-square&logo=x&logoColor=000000&labelColor=ffffff&color=000000"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=dev-amanydv&style=flat-square&color=000000&label=views&labelColor=000000"/>
 
----
+</div>
 
-##  Tech Stack
-
-**Frontend:**  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
-![WebRTC](https://img.shields.io/badge/-WebRTC-333333?logo=webrtc&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white) 
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?logo=framer&logoColor=white) 
-![ShadCN](https://img.shields.io/badge/-ShadCN-18181B?logo=shadcnui&logoColor=white)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) 
-![Hono](https://img.shields.io/badge/-Hono-FF4154?logo=hono&logoColor=white) 
-![WebSockets](https://img.shields.io/badge/-WebSockets-010101?logo=socket.io&logoColor=white) 
-![Redis](https://img.shields.io/badge/-Redis-D82C20?logo=redis&logoColor=white) 
-
-**Database & ORM:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) 
-
-**DevOps & Cloud:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
-![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-F38020?logo=cloudflare&logoColor=white) 
-![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?logo=github-actions&logoColor=white) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-
-**Programming:**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) 
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) 
-![SQL](https://img.shields.io/badge/-SQL-025E8C?logo=database&logoColor=white)
+<br/>
 
 ---
 
-##  Tools I Use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma,linux,bootstrap,redis,postgres,mongodb,mysql,express,react,nextjs,tailwind,ts,js,c,cpp"/>
-</p>
+### About
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+I'm a **Full-Stack Engineer** focused on building fast, scalable, production-grade web applications. I care deeply about clean architecture, developer experience, and shipping things that actually work.
 
-### GitHub Stats:
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-amanydv&theme=tokyo-night)
-![Aman's GitHub Streak](https://streak-stats.demolab.com/?user=dev-amanydv&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-amanydv&layout=compact&theme=tokyonight)
+Currently exploring **distributed systems**, **edge computing**, and **AI-native product development**.
+
+- **TypeScript** is my primary language across the stack
+- I build **real-time apps** with WebRTC, Socket.IO & Redis Pub/Sub
+- I ship to the **edge** with Cloudflare Workers & Docker
+- Proficient in both **SQL & NoSQL** database design
+- Auth done right — NextAuth, JWT, OAuth & Zod validation
+
+<br clear="right"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dev-amanydv&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### Technical Skills
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=ffffff)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=flat-square&logo=framer&logoColor=ffffff)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square&logo=shadcnui&logoColor=ffffff)
+![WebRTC](https://img.shields.io/badge/WebRTC-000000?style=flat-square&logo=webrtc&logoColor=ffffff)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=ffffff)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=ffffff)
+![Hono](https://img.shields.io/badge/Hono-000000?style=flat-square&logo=hono&logoColor=ffffff)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=flat-square&logo=socket.io&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=ffffff)
+![tRPC](https://img.shields.io/badge/tRPC-000000?style=flat-square&logo=trpc&logoColor=ffffff)
+
+**Databases & ORM**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=ffffff)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=ffffff)
+![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=flat-square&logo=drizzle&logoColor=ffffff)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=ffffff)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-000000?style=flat-square&logo=cloudflare&logoColor=ffffff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=github-actions&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=ffffff)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=aws&logoColor=ffffff)
+![Azure](https://img.shields.io/badge/Azure-000000?style=flat-square&logo=azure&logoColor=ffffff)
+
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=ffffff)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=sqlite&logoColor=ffffff)
+
+**Dev Tools**
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=ffffff)
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-amanydv&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=dev-amanydv&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&sideNums=ffffff&currStreakNum=ffffff&stroke=000000" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=dev-amanydv&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=888888&include_all_commits=true&count_private=true" height="160"/>
+
+</div>
+
+---
+
+### Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/dev-amanydv/PROJECT_ONE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-amanydv&repo=PROJECT_ONE&theme=github_dark&hide_border=true&bg_color=111111&title_color=ffffff&icon_color=ffffff&text_color=888888" />
+</a>
+&nbsp;
+<a href="https://github.com/dev-amanydv/PROJECT_TWO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-amanydv&repo=PROJECT_TWO&theme=github_dark&hide_border=true&bg_color=111111&title_color=ffffff&icon_color=ffffff&text_color=888888" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<sub>
+<b>Open to</b> &nbsp;·&nbsp; Full-time roles &nbsp;·&nbsp; Freelance contracts &nbsp;·&nbsp; Interesting collaborations
+<br/><br/>
+<b>Reach out</b> &nbsp;·&nbsp; <a href="mailto:aman@youremail.com">ay.work07@gmail.com</a>
+</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=80&section=footer" width="100%"/>
+
+</div>
