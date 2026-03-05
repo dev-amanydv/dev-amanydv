@@ -105,41 +105,15 @@ Currently exploring **distributed systems**, **edge computing**, and **AI-native
 
 ---
 
-### GitHub Activity
+### GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-amanydv&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=dev-amanydv&theme=github-dark&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-amanydv&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=dev-amanydv&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&sideNums=ffffff&currStreakNum=ffffff&stroke=000000" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=dev-amanydv&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=888888&include_all_commits=true&count_private=true" height="160"/>
-
-</div>
-
----
-
-### Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/dev-amanydv/PROJECT_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-amanydv&repo=PROJECT_ONE&theme=github_dark&hide_border=true&bg_color=111111&title_color=ffffff&icon_color=ffffff&text_color=888888" />
-</a>
-&nbsp;
-<a href="https://github.com/dev-amanydv/PROJECT_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-amanydv&repo=PROJECT_TWO&theme=github_dark&hide_border=true&bg_color=111111&title_color=ffffff&icon_color=ffffff&text_color=888888" />
-</a>
-
-</div>
-
-<br/>
 
 ---
 
