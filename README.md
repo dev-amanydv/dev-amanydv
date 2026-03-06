@@ -4,8 +4,8 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Aman%20Yadav%20%E2%80%94%20Full-Stack%20Engineer%20building%20for%20the%20web%20and%20beyond.&height=110&fontSize=27&fontAlign=50&fontAlignY=52&fontFamily=DM+Sans&desc=Engineer.%20Builder.%20Thinker.&descSize=17&descAlign=50&descAlignY=76&descColor=666666"/>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Aman%20Yadav%20%E2%80%94%20Full-Stack%20Engineer%20building%20for%20the%20web%20and%20beyond.&height=110&fontSize=27&fontAlign=50&fontAlignY=52&fontFamily=DM+Sans&desc=Engineer.%20Builder.%20Thinker.&descSize=17&descAlign=50&descAlignY=76&descColor=888888" alt="Aman Yadav — Full-Stack Engineer"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Aman%20Yadav%20%E2%80%94%20Full-Stack%20Developer%20building%20for%20the%20web%20and%20beyond.&height=110&fontSize=27&fontAlign=50&fontAlignY=52&fontFamily=DM+Sans&desc=Engineer.%20Builder.%20Thinker.&descSize=17&descAlign=50&descAlignY=76&descColor=666666"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Aman%20Yadav%20%E2%80%94%20Full-Stack%20Developer%20building%20for%20the%20web%20and%20beyond.&height=110&fontSize=27&fontAlign=50&fontAlignY=52&fontFamily=DM+Sans&desc=Engineer.%20Builder.%20Thinker.&descSize=17&descAlign=50&descAlignY=76&descColor=888888" alt="Aman Yadav — Full-Stack Engineer"/>
 </picture>
 
 <br/><br/>
